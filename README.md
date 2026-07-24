@@ -99,6 +99,9 @@
 - Combine market sentiment with effective risk management techniques.
 
 ## Dashboard
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
 
 The Power BI dashboard includes:
 
